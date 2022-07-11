@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, rgb(192, 255, 208), rgb(6, 100, 29));
+}
+
+#imagem_principal {
+    width: 50%;
+    margin: auto;
+    display: none;
+}
